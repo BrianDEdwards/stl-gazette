@@ -1,0 +1,12 @@
+{
+  "paper": {
+    "name": "The St. Louis Gazette",
+    "motto": "\"All the News the City Will Allow\"",
+    "leftEar": "Gateway to the West",
+    "rightEar": "Night Final",
+    "footer": "The St. Louis Gazette is a work of fiction for the Hunter: The Vigil campaign St. Louis By Night."
+  },
+  "editions": [
+    { "id": "001", "label": "No. 1 · The Cold Comes Early", "file": "editions/001.json" }
+  ]
+}

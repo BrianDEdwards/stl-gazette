@@ -1,0 +1,117 @@
+{
+  "issue": {
+    "volume": "Vol. CXLII · No. 1",
+    "date": "Tuesday, October 27",
+    "edition": "Late City Edition",
+    "price": "50 Cents"
+  },
+  "nextSession": {
+    "title": "The Next Hunt",
+    "when": "",
+    "where": "",
+    "tba": "Date to be announced. **Tell your GM when you're free.** The city won't wait forever.",
+    "marginalia": "sooner is better"
+  },
+  "previously": null,
+  "ticker": [
+    "Cherokee St. residents ask police for answers after third disappearance",
+    "Cold front arrives early: freeze warning through the weekend",
+    "Old Cathedral announces All Souls' Day Mass, Nov. 2",
+    "Missing explorer's final video passes 40,000 views",
+    "Cold Room Brewing's grand opening goes ahead as planned"
+  ],
+  "weather": {
+    "headline": "Bitter Cold",
+    "text": "An early cold front settles over the city. Lows near **29°** tonight, colder by the weekend. Fog along the river after midnight.",
+    "marginalia": "every one of them on a cold night"
+  },
+  "articles": [
+    {
+      "id": "cherokee-missing",
+      "size": "lead",
+      "kicker": "South City",
+      "headline": "Third Disappearance Rattles Cherokee Street",
+      "subhead": "Delivery driver, local explorer, and a man who slept in the alley all vanished within two weeks. Police call the cases \"unrelated.\"",
+      "byline": "By Dolores Kiehl · Gazette Staff",
+      "body": [
+        "Three people have disappeared from the same four blocks of Cherokee Street in less than two weeks, and the neighbors want to know why nobody downtown seems worried.",
+        "The first was a man known on the street only as Gus, who for two winters had slept in the alley behind the antique shops between Iowa and Ohio avenues. Shop owners noticed his bedroll was still there, untouched, on the morning of October 14. A week later a food delivery driver failed to return from an evening run on the block; his car was found with the engine running and the driver's door open. Then, last Thursday, urban explorer and video creator Kenzie Holt, 24, stopped answering her phone.",
+        "\"Three people. Same street. And they tell us it's a coincidence,\" said one longtime business owner, who asked not to be named. \"My grandfather had a saying about this neighborhood. *Never open the old cellars.* I used to think it was a joke.\"",
+        "A spokesman for the Third District said the department has \"no evidence connecting the cases\" and that two of the three missing are adults with \"histories of moving around.\" He declined to say whether detectives had searched the area's many bricked-up basements.",
+        "All three were last seen after dark, near the corner where the new brewpub Cold Room Brewing opened its doors this month. The owner did not return calls by press time.",
+        "Anyone with information is asked to call the Third District. {{Don't call the police. They already know.}}"
+      ],
+      "marginalia": "all three within a block of the brewery"
+    },
+    {
+      "id": "kenzie-video",
+      "kicker": "Online",
+      "headline": "Missing Explorer's Last Upload Draws Thousands",
+      "subhead": "Viewers say they can see someone standing behind her.",
+      "byline": "By Ray Okafor · Gazette Staff",
+      "body": [
+        "The final video posted by Kenzie Holt runs four minutes and eleven seconds. Most of it is darkness, a flashlight beam, and old brick. It has now been viewed more than 40,000 times, and nearly every comment asks about the same frame.",
+        "At 3:52, as Holt turns to speak to the camera, a pale shape appears in the passage behind her. Some viewers see a person. Others see a trick of the light. Holt, who posted under the handle *kenz_underground*, does not seem to notice it.",
+        "The video was cross-posted by the local livestream collective *Gateway Static*, which says Holt was a regular contributor. \"We want her home,\" the group posted. \"If you know where that tunnel is, message us. Don't go in alone.\"",
+        "Several commenters also claim to hear a second voice in the audio, whispering under Holt's breathing. The Gazette listened. We could not make out any words. {{It's saying her name. In her voice.}}"
+      ],
+      "marginalia": "where was she filming?"
+    },
+    {
+      "id": "caves-history",
+      "kicker": "Hidden St. Louis",
+      "headline": "The City Beneath the City",
+      "subhead": "Before refrigeration, St. Louis kept its beer cold underground. Most of those caves are still down there.",
+      "byline": "By Harold Fenn · Contributing Historian",
+      "body": [
+        "Walk Cherokee Street today and you are walking on a roof. Beneath South City runs a honeycomb of natural limestone caves that, in the 1800s, made St. Louis one of the brewing capitals of the world. German brewers stacked their lager casks in the constant chill underground, where the temperature hardly changes from January to July.",
+        "When artificial refrigeration arrived, the breweries moved on. The caves were filled, forgotten, or simply bricked off behind basement walls. Nobody knows exactly how many entrances remain. City records from the period are incomplete, and some of the oldest building plans show cellars that no longer appear on any later map.",
+        "Every few years a contractor knocks through a wall and finds one. The cool air, the old brickwork, and the occasional rusted relic make for good stories. Most are sealed again within the week.",
+        "Not all of them were bricked up by brewers. {{Some were sealed from the outside, with iron.}}"
+      ],
+      "marginalia": "who else was down there in the 1880s?"
+    },
+    {
+      "id": "all-souls",
+      "column": "side",
+      "size": "brief",
+      "kicker": "Downtown",
+      "headline": "Old Cathedral to Hold All Souls' Mass",
+      "body": [
+        "The Basilica of St. Louis, King of France, will hold its traditional All Souls' Day Mass on November 2 at 7 p.m. The parish's lay brotherhood, the Confraternity of St. Joseph, will host a reception afterward in the rectory. Parishioners are reminded that the lower crypt remains closed to visitors for restoration work."
+      ],
+      "marginalia": "restoration since when?"
+    },
+    {
+      "id": "gala",
+      "column": "side",
+      "size": "brief",
+      "kicker": "Society",
+      "headline": "Arts Patrons Gather in the Central West End",
+      "body": [
+        "Philanthropist Celeste Marchand opened her Lindell Boulevard home Saturday for the season's first benefit for the city's historic preservation fund. Guests noted the hostess's famous gloves, her famously dry toasts, and a generous pledge toward \"protecting the places this city would rather forget.\""
+      ]
+    }
+  ],
+  "blotter": [
+    { "time": "11:48 p.m.", "where": "3400 block of Cherokee St.", "text": "Caller reports a phone ringing in an alley. Officers found no phone." },
+    { "time": "2:14 a.m.", "where": "Iowa Ave.", "text": "Resident reports a voicemail from a family member reported missing. Advised to contact the detective on the case." },
+    { "time": "4:30 a.m.", "where": "Lemp Ave.", "text": "Contractor reports a basement wall \"breathing cold air.\" No crime. Unfounded." },
+    { "time": "10:05 p.m.", "where": "Cherokee St. & Ohio Ave.", "text": "Passerby reports someone calling for help from beneath a sidewalk grate. Fire dept. responded. Nothing found." }
+  ],
+  "ads": [
+    {
+      "headline": "Cold Room Brewing",
+      "body": "**Now open on Cherokee Street.** Lagers aged the old way, in the cellar of our 1880s building. Ask about the historic lagering cave we found behind the basement wall!",
+      "footer": "Grand opening all week · No one under 21",
+      "marginalia": "ask him what was on the wall"
+    }
+  ],
+  "classifieds": [
+    { "heading": "Personal", "text": "To whoever keeps calling from my brother's number at 2 a.m.: this isn't funny. He's been gone since the 14th. If you know where he is, just tell me." },
+    { "heading": "For Sale", "text": "Antique iron crosses, wrought, 19th c. Salvaged from South City cellars. Not for decoration. Delacroix Antiques, Cherokee St.", "marginalia": "buy one" },
+    { "heading": "Help Wanted", "text": "Brewery cellar hand. Night shift. Must not be bothered by the cold. Previous hand quit without notice." },
+    { "heading": "Lost", "text": "Gray camera bag with a red strap. Last seen on Cherokee St. Reward. Ask for Mars at the storefront with the blacked-out windows." },
+    { "heading": "Notice", "text": "{{If you're reading this, you're one of us. Keep your flashlights charged and your phones on silent. It listens.}}" }
+  ]
+}
