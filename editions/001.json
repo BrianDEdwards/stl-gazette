@@ -14,48 +14,48 @@
   },
   "previously": null,
   "ticker": [
-    "Cherokee St. residents ask police for answers after third disappearance",
+    "Alton residents demand answers after summer quarry blasts",
+    "Family of missing delivery driver pleads for tips",
     "Cold front arrives early: freeze warning through the weekend",
     "Old Cathedral announces All Souls' Day Mass, Nov. 2",
-    "Missing explorer's final video passes 40,000 views",
-    "Cold Room Brewing's grand opening goes ahead as planned"
+    "River traffic advisory: fog expected after midnight"
   ],
   "weather": {
     "headline": "Bitter Cold",
     "text": "An early cold front settles over the city. Lows near **29°** tonight, colder by the weekend. Fog along the river after midnight.",
-    "marginalia": "every one of them on a cold night"
+    "marginalia": "stay off the river at night"
   },
   "articles": [
     {
-      "id": "cherokee-missing",
+      "id": "alton-blasting",
       "size": "lead",
-      "kicker": "South City",
-      "headline": "Third Disappearance Rattles Cherokee Street",
-      "subhead": "Delivery driver, local explorer, and a man who slept in the alley all vanished within two weeks. Police call the cases \"unrelated.\"",
+      "kicker": "Riverbend",
+      "headline": "Alton Bluffs Still Shaking From Summer Blasts",
+      "subhead": "Quarry work near the river cracked foundations, rattled windows, and split open the limestone. Neighbors say things haven't been right since.",
       "byline": "By Dolores Kiehl · Gazette Staff",
       "body": [
-        "Three people have disappeared from the same four blocks of Cherokee Street in less than two weeks, and the neighbors want to know why nobody downtown seems worried.",
-        "The first was a man known on the street only as Gus, who for two winters had slept in the alley behind the antique shops between Iowa and Ohio avenues. Shop owners noticed his bedroll was still there, untouched, on the morning of October 14. A week later a food delivery driver failed to return from an evening run on the block; his car was found with the engine running and the driver's door open. Then, last Thursday, urban explorer and video creator Kenzie Holt, 24, stopped answering her phone.",
-        "\"Three people. Same street. And they tell us it's a coincidence,\" said one longtime business owner, who asked not to be named. \"My grandfather had a saying about this neighborhood. *Never open the old cellars.* I used to think it was a joke.\"",
-        "A spokesman for the Third District said the department has \"no evidence connecting the cases\" and that two of the three missing are adults with \"histories of moving around.\" He declined to say whether detectives had searched the area's many bricked-up basements.",
-        "All three were last seen after dark, near the corner where the new brewpub Cold Room Brewing opened its doors this month. The owner did not return calls by press time.",
-        "Anyone with information is asked to call the Third District. {{Don't call the police. They already know.}}"
+        "For three weeks in August, the windows on Alton's river road rattled every afternoon at two o'clock. The quarry upriver was blasting into the bluffs, and the people who live beneath them have been counting the damage ever since.",
+        "\"Cracked my basement wall clean through,\" said a retired lock-and-dam worker whose house sits below the bluffs. \"I've lived here forty years. You get used to the barges. You don't get used to the hill moving.\"",
+        "The quarry operator says the blasting was permitted and inspected, and that the work stopped on schedule. State geologists confirmed that one charge opened a fissure in the bluff face, exposing what appears to be a natural cave. The opening has been fenced off, and officials have asked hikers and climbers to stay away.",
+        "Residents say the fence isn't the problem. Since the blasting stopped, neighbors along the river road describe dogs that won't go outside after dark, a goose pen found empty one morning with the wire torn upward, and something heavy moving over the rooftops on calm nights. \"Like a sail filling up,\" one woman said. \"Then nothing.\"",
+        "A few miles away, tourists still stop to photograph the painted Piasa, the winged monster on the bluffs that Father Marquette wrote about in 1673. The painting is a modern recreation. The legend, everyone agrees, is only a legend.",
+        "The quarry's next blasting permit comes before the county board in November."
       ],
-      "marginalia": "all three within a block of the brewery"
+      "marginalia": "the geese weren't taken from the ground"
     },
     {
-      "id": "kenzie-video",
-      "kicker": "Online",
-      "headline": "Missing Explorer's Last Upload Draws Thousands",
-      "subhead": "Viewers say they can see someone standing behind her.",
+      "id": "driver-missing",
+      "kicker": "South City",
+      "headline": "Delivery Driver Vanishes on Cherokee Street",
+      "subhead": "His car was found with the engine running and the door open. His family wants to know why police aren't looking harder.",
       "byline": "By Ray Okafor · Gazette Staff",
       "body": [
-        "The final video posted by Kenzie Holt runs four minutes and eleven seconds. Most of it is darkness, a flashlight beam, and old brick. It has now been viewed more than 40,000 times, and nearly every comment asks about the same frame.",
-        "At 3:52, as Holt turns to speak to the camera, a pale shape appears in the passage behind her. Some viewers see a person. Others see a trick of the light. Holt, who posted under the handle *kenz_underground*, does not seem to notice it.",
-        "The video was cross-posted by the local livestream collective *Gateway Static*, which says Holt was a regular contributor. \"We want her home,\" the group posted. \"If you know where that tunnel is, message us. Don't go in alone.\"",
-        "Several commenters also claim to hear a second voice in the audio, whispering under Holt's breathing. The Gazette listened. We could not make out any words. {{It's saying her name. In her voice.}}"
+        "Joey made his last delivery on Cherokee Street a little after 10 p.m. on a Tuesday. The customer got her order. Joey never made it back to his car.",
+        "Officers found the vehicle the next morning, parked at the curb with the engine still running, the driver's door open, and his phone on the seat. There were no signs of a struggle. The 23-year-old's family says he had no reason to leave and nowhere to go.",
+        "\"He's a good kid. He calls his mother every night,\" said an uncle who has organized volunteers to hand out flyers along the street. \"Somebody on this block saw something. Somebody heard something.\"",
+        "A spokesman for the Third District said the case remains open but called it \"a missing adult case with no evidence of foul play.\" The family is asking anyone who was on Cherokee Street that night to come forward."
       ],
-      "marginalia": "where was she filming?"
+      "marginalia": "check the phone"
     },
     {
       "id": "caves-history",
@@ -66,10 +66,8 @@
       "body": [
         "Walk Cherokee Street today and you are walking on a roof. Beneath South City runs a honeycomb of natural limestone caves that, in the 1800s, made St. Louis one of the brewing capitals of the world. German brewers stacked their lager casks in the constant chill underground, where the temperature hardly changes from January to July.",
         "When artificial refrigeration arrived, the breweries moved on. The caves were filled, forgotten, or simply bricked off behind basement walls. Nobody knows exactly how many entrances remain. City records from the period are incomplete, and some of the oldest building plans show cellars that no longer appear on any later map.",
-        "Every few years a contractor knocks through a wall and finds one. The cool air, the old brickwork, and the occasional rusted relic make for good stories. Most are sealed again within the week.",
-        "Not all of them were bricked up by brewers. {{Some were sealed from the outside, with iron.}}"
-      ],
-      "marginalia": "who else was down there in the 1880s?"
+        "Every few years a contractor knocks through a wall and finds one. The cool air, the old brickwork, and the occasional rusted relic make for good stories. Most are sealed again within the week."
+      ]
     },
     {
       "id": "all-souls",
@@ -95,23 +93,22 @@
   ],
   "blotter": [
     { "time": "11:48 p.m.", "where": "3400 block of Cherokee St.", "text": "Caller reports a phone ringing in an alley. Officers found no phone." },
-    { "time": "2:14 a.m.", "where": "Iowa Ave.", "text": "Resident reports a voicemail from a family member reported missing. Advised to contact the detective on the case." },
-    { "time": "4:30 a.m.", "where": "Lemp Ave.", "text": "Contractor reports a basement wall \"breathing cold air.\" No crime. Unfounded." },
-    { "time": "10:05 p.m.", "where": "Cherokee St. & Ohio Ave.", "text": "Passerby reports someone calling for help from beneath a sidewalk grate. Fire dept. responded. Nothing found." }
+    { "time": "1:20 a.m.", "where": "Bellefontaine Cemetery", "text": "Groundskeeper reports a mausoleum door standing open. Door was locked when officers arrived. Groundskeeper insists he did not lock it." },
+    { "time": "3:05 a.m.", "where": "The Hill", "text": "Resident reports a man in a long coat standing under a streetlight, facing her house, for two hours. Gone on arrival. Third report this month." },
+    { "time": "5:40 a.m.", "where": "Forest Park", "text": "Jogger reports every bird in the Grand Basin taking off at once, \"like something scared them.\" No further action." }
   ],
   "ads": [
     {
-      "headline": "Cold Room Brewing",
-      "body": "**Now open on Cherokee Street.** Lagers aged the old way, in the cellar of our 1880s building. Ask about the historic lagering cave we found behind the basement wall!",
-      "footer": "Grand opening all week · No one under 21",
-      "marginalia": "ask him what was on the wall"
+      "headline": "Hofbauer Brewing Co.",
+      "body": "**Now open on Cherokee Street.** Lagers aged the old way, in the cellar of our 1880s building. Live music Fridays, pretzels all week.",
+      "footer": "Grand opening all week · No one under 21"
     }
   ],
   "classifieds": [
     { "heading": "Personal", "text": "To whoever keeps calling from my brother's number at 2 a.m.: this isn't funny. He's been gone since the 14th. If you know where he is, just tell me." },
     { "heading": "For Sale", "text": "Antique iron crosses, wrought, 19th c. Salvaged from South City cellars. Not for decoration. Delacroix Antiques, Cherokee St.", "marginalia": "buy one" },
-    { "heading": "Help Wanted", "text": "Brewery cellar hand. Night shift. Must not be bothered by the cold. Previous hand quit without notice." },
-    { "heading": "Lost", "text": "Gray camera bag with a red strap. Last seen on Cherokee St. Reward. Ask for Mars at the storefront with the blacked-out windows." },
+    { "heading": "Help Wanted", "text": "Night watchman, riverfront warehouse, Laclede's Landing. Must keep the lights on and the doors shut until dawn. No questions asked, none answered." },
+    { "heading": "Lost", "text": "Pocket watch, silver, engraved \"For W., who stayed.\" Lost near Lafayette Square. Sentimental value only. Please do not open it." },
     { "heading": "Notice", "text": "{{If you're reading this, you're one of us. Keep your flashlights charged and your phones on silent. It listens.}}" }
   ]
 }

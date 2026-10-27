@@ -2,6 +2,8 @@
 
 An in-world newspaper for the *Hunter: The Vigil* campaign **St. Louis By Night**. One page (`index.html`) renders any edition from a JSON file, so every issue looks and works the same.
 
+Layout: `index.html` (markup), `css/style.css` (look), `js/app.js` (rendering), `editions/` (content).
+
 **Player-facing only.** This repo is public. Never put GM secrets here.
 
 ## Publishing a new edition
